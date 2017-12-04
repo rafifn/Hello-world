@@ -1,0 +1,53 @@
+aside {
+    box-shadow: 0px;
+    float: left;
+    margin: 10px;
+    max-width: 100%;
+    width: 200px;
+}
+
+.brand {
+    margin-left: 50px; 
+    text-align: center;
+}
+
+.logo {
+    font-family: 'Bad Script', cursive;
+    color: #ffd700;
+}
+
+.ket {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+ul.nav nav-pills nav-stacked{
+    list-style: none;
+    padding: 0px;
+    position: relative;
+}
+
+.nav li a {
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+ul.nav nav-pills nav-stacked li a:hover {
+    background-color: black;
+}
+
+.nav {
+    margin-top: 50px;
+}
+
+.social {
+    padding-left: 15px;
+    color: #ffffff;
+}
+
+.center a {
+    float: left;
+    padding-left: 10px;
+
+}
